@@ -1,0 +1,15 @@
+D:\curso c# alura\Exercicio Pet shop\ConsoleApp1\bin\Debug\net7.0\PetShop.exe
+D:\curso c# alura\Exercicio Pet shop\ConsoleApp1\bin\Debug\net7.0\PetShop.deps.json
+D:\curso c# alura\Exercicio Pet shop\ConsoleApp1\bin\Debug\net7.0\PetShop.runtimeconfig.json
+D:\curso c# alura\Exercicio Pet shop\ConsoleApp1\bin\Debug\net7.0\PetShop.dll
+D:\curso c# alura\Exercicio Pet shop\ConsoleApp1\bin\Debug\net7.0\PetShop.pdb
+D:\curso c# alura\Exercicio Pet shop\ConsoleApp1\obj\Debug\net7.0\PetShop.csproj.AssemblyReference.cache
+D:\curso c# alura\Exercicio Pet shop\ConsoleApp1\obj\Debug\net7.0\PetShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\curso c# alura\Exercicio Pet shop\ConsoleApp1\obj\Debug\net7.0\PetShop.AssemblyInfoInputs.cache
+D:\curso c# alura\Exercicio Pet shop\ConsoleApp1\obj\Debug\net7.0\PetShop.AssemblyInfo.cs
+D:\curso c# alura\Exercicio Pet shop\ConsoleApp1\obj\Debug\net7.0\PetShop.csproj.CoreCompileInputs.cache
+D:\curso c# alura\Exercicio Pet shop\ConsoleApp1\obj\Debug\net7.0\PetShop.dll
+D:\curso c# alura\Exercicio Pet shop\ConsoleApp1\obj\Debug\net7.0\refint\PetShop.dll
+D:\curso c# alura\Exercicio Pet shop\ConsoleApp1\obj\Debug\net7.0\PetShop.pdb
+D:\curso c# alura\Exercicio Pet shop\ConsoleApp1\obj\Debug\net7.0\PetShop.genruntimeconfig.cache
+D:\curso c# alura\Exercicio Pet shop\ConsoleApp1\obj\Debug\net7.0\ref\PetShop.dll
