@@ -1,2 +1,4 @@
-# petshop
-Exercício C# criação de aplicativo console PetShop
+# petshop 
+modelando  um Petshot
+Praticando conceitos de OO com C#
+
