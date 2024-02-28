@@ -1,4 +1,5 @@
-﻿class Dono 
+﻿namespace PetShop.Modelos;
+internal class Dono 
 {
     private List<Pet> pets = new List<Pet>();
     public Dono(string nome, string telefone, string email)

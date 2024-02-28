@@ -1,4 +1,5 @@
-﻿class Pet 
+﻿namespace PetShop.Modelos;
+internal class Pet 
 {
     public List<Consulta> consultas = new List<Consulta>();
 

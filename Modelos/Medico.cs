@@ -1,4 +1,5 @@
-﻿class Medico
+﻿namespace PetShop.Modelos;
+internal class Medico
 {
     public Medico(string nome, string telefone)
     {
